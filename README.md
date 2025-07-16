@@ -11,30 +11,29 @@ Serão implementados os seguintes exercícios:
 
 | Código do Problema | Nome do Problema | Dificuldade | Responsável | 
 |--------------------|------------------|-------------|-------------|
-| [LC 72](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/sort.py) | Edit Distance | Médio | João Pedro
-| [LC 1235](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/count.py) | Maximum Profit in Job Scheduling | Difícil | João Pedro
-| [LC 494](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/median.py) | Target Sum | Médio | João Pedro  
-| [LC 354](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/reverse.py) | Russian Doll Envelopes | Difícil | João Pedro 
+| [LC 72](https://github.com/projeto-de-algoritmos-2025/algoritmos_dinamicos/blob/main/edit_distance.py) | Edit Distance | Médio | João Pedro
+| [LC 1235](https://github.com/projeto-de-algoritmos-2025/algoritmos_dinamicos/blob/main/maximum_profit.py) | Maximum Profit in Job Scheduling | Difícil | João Pedro
+| [LC 494](https://github.com/projeto-de-algoritmos-2025/algoritmos_dinamicos/blob/main/target_sum.py) | Target Sum | Médio | João Pedro  
+| [LC 354](https://github.com/projeto-de-algoritmos-2025/algoritmos_dinamicos/blob/main/russian_doll.py) | Russian Doll Envelopes | Difícil | João Pedro 
 
 # Screenshots
-![sort an array](https://github.com/user-attachments/assets/b8cf33f7-40b2-4a26-b5b3-7aabd10548b4)
+
+<img width="664" height="370" alt="Captura de tela 2025-07-15 233655" src="https://github.com/user-attachments/assets/10ba1391-b9e1-4db4-925e-a28fafece5f2" />
 
 Edit Distance
 
 
-![countofsmaller](https://github.com/user-attachments/assets/bcc99472-d448-45d1-a990-c9e8a97353a6)
+<img width="666" height="369" alt="Captura de tela 2025-07-15 233618" src="https://github.com/user-attachments/assets/b3faccfb-c1a1-41c8-9442-f27646988e5d" />
 
 
 Maximum Profit in Job Scheduling
 
-
-![medianoftwo](https://github.com/user-attachments/assets/bfed9bf3-3689-4027-8754-e28b9ecff6db)
-
+<img width="664" height="370" alt="Captura de tela 2025-07-15 233533" src="https://github.com/user-attachments/assets/cd9a54a8-b253-4929-85f8-aa734ddc174f" />
 
 Target Sum
 
 
-![reversepairs](https://github.com/user-attachments/assets/0fb6475d-0048-436c-bd52-a89c39110e1b)
+<img width="670" height="372" alt="Captura de tela 2025-07-15 233408" src="https://github.com/user-attachments/assets/174dfa36-a8c8-4435-a092-b31cabd7d758" />
 
 Russian Doll Envelopes
 
